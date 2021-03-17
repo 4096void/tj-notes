@@ -5,3 +5,5 @@
 - [merge two linked list, LeetCode #21 easy](./merge-two-sorted-lists.java)
 - [remove duplicates from sorted list, LeetCode #83 easy](./remove-duplicates-from-sorted-list.java)
 - [remove nth node from end of list, LeetCode #19 medium](./remove-nth-from-end-of-list.java)
+- [swap nodes in pairs, LeetCode #24 medium](./swap-nodes-in-pairs.java)
+- [add two numbers, LeetCode #445 medium](./add-two-numbers.java)
