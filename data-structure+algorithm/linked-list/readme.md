@@ -7,3 +7,4 @@
 - [remove nth node from end of list, LeetCode #19 medium](./remove-nth-from-end-of-list.java)
 - [swap nodes in pairs, LeetCode #24 medium](./swap-nodes-in-pairs.java)
 - [add two numbers, LeetCode #445 medium](./add-two-numbers.java)
+- [palindrome linked list, LeetCode #234 easy](./palindrome-linked-list.java)
