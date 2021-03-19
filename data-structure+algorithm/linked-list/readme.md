@@ -1,5 +1,8 @@
 # Linked-list
 
+In mostly situations, a temporary pointer is being used to point to the `ListNode` that being processed.  
+`ListNode.next` is used to jump to the next iteration, like the `--` and `++` in for loop.  
+
 - [intersection of two linked lists, LeetCode #160 easy](./intersection-of-two-linked-lists-easy.java)
 - [reverse linked list, LeetCode #206 easy](./reverse-linked-list.java)
 - [merge two linked list, LeetCode #21 easy](./merge-two-sorted-lists.java)
