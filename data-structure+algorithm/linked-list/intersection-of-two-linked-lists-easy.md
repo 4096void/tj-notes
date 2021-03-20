@@ -8,14 +8,14 @@ Common part C: c1 -> c2
 
 So:
 
-Linked list A distinct part, A: a1 -> a2 -> a3  
-Linked list B distinct part, B: b1 -> b2 -> b3 -> b4  
+listA distinct part, A: a1 -> a2 -> a3  
+listB distinct part, B: b1 -> b2 -> b3 -> b4  
 
 listA + listB = A + C + B + C  
 listB + listA = B + C + A + C  
 A + B + C = B + A + C  
 
-So just compare above two linked lists' listNode directly one by one, then will get the intersection node finally.
+So just compare above two linked lists' listNode directly one by one, then will get the intersection node finally.  
 
 ```java
 public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
