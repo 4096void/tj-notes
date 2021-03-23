@@ -11,7 +11,7 @@ A: a1 -> a2 -> a3, and for each ListNode in list, apply below procedure individu
 
 A: a1 -> a2 -> a3  
 Apply below procedure to each ListNode in list  
-`ListNode n, n.next = currentNode.next, currentNode.next = n, current = n`  
+`ListNode n, n.next = currentNode.next, currentNode.next = n, currentNode = n`  
 
 ```java
 public ListNode reverList(ListNode head) {
