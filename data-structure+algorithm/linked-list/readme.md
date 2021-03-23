@@ -4,7 +4,7 @@ In mostly situations, a temporary pointer is being used to point to the `ListNod
 `ListNode.next` is used to jump to the next iteration, like the `--` and `++` in for loop.  
 
 - [intersection of two linked lists, LeetCode #160 easy](./intersection-of-two-linked-lists-easy.md)
-- [reverse linked list, LeetCode #206 easy](./reverse-linked-list.java)
+- [reverse linked list, LeetCode #206 easy](./reverse-linked-list.md)
 - [merge two linked list, LeetCode #21 easy](./merge-two-sorted-lists.java)
 - [remove duplicates from sorted list, LeetCode #83 easy](./remove-duplicates-from-sorted-list.java)
 - [remove nth node from end of list, LeetCode #19 medium](./remove-nth-from-end-of-list.java)
