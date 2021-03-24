@@ -11,3 +11,4 @@ In mostly situations, a temporary pointer is being used to point to the `ListNod
 - [swap nodes in pairs, LeetCode #24 medium](./swap-nodes-in-pairs.java)
 - [add two numbers, LeetCode #445 medium](./add-two-numbers.java)
 - [palindrome linked list, LeetCode #234 easy](./palindrome-linked-list.java)
+- [split linked list in parts #725, medium](./split-linked-list-in-parts.java)
