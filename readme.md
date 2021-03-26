@@ -2,7 +2,7 @@
 
 Thanks to `CyC2018/CS-notes`
 
-And here comes Xiaomi's LCD writing tablet, you can practice writing Japanese hinagara or POC the critical step of algorithm, anyways, an interesting gadget.
+<img src="./little-helper.jpeg" alt="Xiaomi LCD writing tablet" width="512"/>
 
-
-![Xiaomi LCD writing tablet](./little-helper.jpeg)
+And here comes my new partner - Xiaomi's LCD writing tablet!  
+You can practice writing Japanese hinagara or POC the critical step of any algorithm, anyways it's an interesting gadget.
