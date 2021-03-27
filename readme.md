@@ -1,8 +1,11 @@
 # Write down something.
 
-Thanks to `CyC2018/CS-notes`
-
 <img src="./little-helper.jpeg" alt="Xiaomi LCD writing tablet" width="512"/>
 
-And here comes my new partner - Xiaomi's LCD writing tablet!  
-You can practice writing Japanese hinagara or POC the critical step of any algorithm, anyways it's an interesting gadget.
+And here's my new partner - [Xiaomi's LCD writing tablet](https://www.amazon.com/Original-Writing-Electronic-Graphic-Drawing/dp/B08RCLW6TT/)!  
+You can practice writing [Hiragana](https://en.wikipedia.org/wiki/Hiragana) or [POC](https://en.wikipedia.org/wiki/Proof_of_concept) the critical step of any algorithm.
+
+Anyways, it's an very funny gadget.
+
+# Thanks list ❤️
+- `CyC2018/CS-notes`
