@@ -7,3 +7,7 @@
 - [merge two binary trees, #617 easy 🤠](./invert-binary-trees.java)
 - [path sum, #112 easy](./path-sum.java)
 - [path sum iii, #437 easy](./path-sum-iii.java)
+- [subtree of another tree, #572 easy](./subtree-of-another-tree.java)
+- [symmetric tree, #101 easy](./symmetric-tree.java)
+- [minimum depth of binary tree, #111 easy](./minimum-depth-of-binary-tree.java)
+- [sum of left leaves, #404 easy](./sum-of-left-leaves.java)
