@@ -11,3 +11,5 @@
 - [symmetric tree, #101 easy](./symmetric-tree.java)
 - [minimum depth of binary tree, #111 easy](./minimum-depth-of-binary-tree.java)
 - [sum of left leaves, #404 easy](./sum-of-left-leaves.java)
+- [longest univalue path, #687 easy](./longest-univalue-path.java)
+- [house robber iii, #337 easy](./house-robber-iii.java)
