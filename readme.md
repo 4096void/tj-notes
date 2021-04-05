@@ -15,6 +15,7 @@ Anyways, it's an very funny gadget.
 
 # Todos
 - rewrite to Python version
+- rewrite to JavaScript version
 
 [1]: <https://www.amazon.com/Original-Writing-Electronic-Graphic-Drawing/dp/B08RCLW6TT/> "Xiaomi's LCD writing tablet"
 [2]: <https://en.wikipedia.org/wiki/Hiragana> "Hiragana"
