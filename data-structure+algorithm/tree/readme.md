@@ -13,3 +13,4 @@
 - [sum of left leaves, #404 easy](./sum-of-left-leaves.java)
 - [longest univalue path, #687 easy](./longest-univalue-path.java)
 - [house robber iii, #337 easy](./house-robber-iii.java)
+- [second minimum node in a binary tree, #671 easy](./second-minimum-node-in-a-binary-tree.java)
