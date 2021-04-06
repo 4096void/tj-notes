@@ -14,3 +14,5 @@
 - [longest univalue path, #687 easy](./longest-univalue-path.java)
 - [house robber iii, #337 easy](./house-robber-iii.java)
 - [second minimum node in a binary tree, #671 easy](./second-minimum-node-in-a-binary-tree.java)
+
+- [average of levels in binary tree, #637 easy](./average-of-levels-in-binary-tree.java)
