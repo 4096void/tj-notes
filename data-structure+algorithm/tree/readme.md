@@ -17,3 +17,5 @@
 
 - [average of levels in binary tree, #637 easy](./average-of-levels-in-binary-tree.java)
 - [find bottom left tree value, #513 easy](./find-bottom-left-tree-value.java)
+
+- [binary tree preorder traversal, #144 medium](./binary-tree-preorder-traversal.java)
