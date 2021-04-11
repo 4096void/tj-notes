@@ -19,3 +19,4 @@
 - [find bottom left tree value, #513 easy](./find-bottom-left-tree-value.java)
 
 - [binary tree preorder traversal, #144 medium](./binary-tree-preorder-traversal.java)
+- [binary tree postorder traversal, #144 medium](./binary-tree-preorder-traversal.java)
