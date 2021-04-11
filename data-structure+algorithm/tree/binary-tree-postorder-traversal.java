@@ -13,7 +13,7 @@ class Solution {
       stack.push(node.left);
       stack.push(node.right);
     }
-
+    Collections.reverse(ret);
     return ret;
   }
 }
