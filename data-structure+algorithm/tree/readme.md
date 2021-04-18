@@ -20,3 +20,4 @@
 
 - [binary tree preorder traversal, #144 medium](./binary-tree-preorder-traversal.java)
 - [binary tree postorder traversal, #144 medium](./binary-tree-preorder-traversal.java)
+- [binary tree inorder traversal, #94 medium](./binary-tree-inorder-traversal.java)
