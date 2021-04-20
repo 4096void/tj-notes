@@ -12,6 +12,7 @@ Anyways, it's an very funny gadget.
 - [CyC2018/CS-notes](https://github.com/CyC2018/CS-Notes)
 - [龍樹中觀的世界: The World of Mulamadhyamakakarika (Traditional Chinese Edition)](https://www.amazon.com/%E9%BE%8D%E6%A8%B9%E4%B8%AD%E8%A7%80%E7%9A%84%E4%B8%96%E7%95%8C-World-Mulamadhyamakakarika-Traditional-Chinese-ebook/dp/B08MTGLJBR/)
 - [AlgoCasts 用心做好每一个算法视频](https://algocasts.io/)
+- [Roam Research](https://roamresearch.com/)
 
 # Todos
 - rewrite to Python version
